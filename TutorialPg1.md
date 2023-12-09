@@ -11,5 +11,5 @@ If your account is new, your repositories page will be empty. Select the green "
 Give your repository an appropriate name, and choose it's initial configuration. Setting your repository to "Public" is best for school assignments or work related projects that will be shared with many people, and it's always good to start your repository with a README.txt file to serve as an informational page.
 ![Screenshot (113)](https://github.com/BDBluhm/INFOTC-1600-Final/assets/116319535/52b88de5-d8cf-453d-b6a7-ef294e9b7d9d)
 Once you have created your repository, you will be placed at this screen and can begin work on your project. 
-
-Select [here]() to move onto the next part of the tutorial.
+![Screenshot (114) - Copy - Copy](https://github.com/BDBluhm/INFOTC-1600-Final/assets/116319535/4c13c4ea-37cf-4836-89ad-15b22037551e)
+Select [here](TutorialPg2.md) to move onto the next part of the tutorial.
