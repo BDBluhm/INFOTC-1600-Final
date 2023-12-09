@@ -15,4 +15,4 @@ You can also use other code languages in GitHub, such as creating html files and
 Another useful feature is the "preview" button, which allows you to see the changes you make and what your page will look like before you commit to your changes. This will show things like embedded images and markdown headers.
 ![Screenshot (122)](https://github.com/BDBluhm/INFOTC-1600-Final/assets/116319535/a35a17e4-fe82-4173-bd55-e7a3dd1662fb)![Screenshot (121)](https://github.com/BDBluhm/INFOTC-1600-Final/assets/116319535/bc79520f-1dfb-4ed8-b601-173a2b8d383e)
 
-Select [Here](TutorialPg3) for the next tutorial - Publishing your GitHub site
+Select [Here](TutorialPg3.md) for the next tutorial - Publishing your GitHub site
