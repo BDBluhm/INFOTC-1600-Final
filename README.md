@@ -2,4 +2,4 @@
 ## An Introduction to GitHub
 by Brian Bluhm
 ### For those using GitHub for the first time
-A primer on the features and functions of GitHub, for those just starting out with the program. Students or workers using GitHub for the first time will be given the information to jump right into their own projects.
+This tutorial will act as a primer on the features and functions of GitHub, for those just starting out with the program. Students or workers using GitHub for the first time will learn how to create thier accounts, create a repository and a new project, and how to begin work on their own projects properly utilizing GitHubs tools and features.
