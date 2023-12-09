@@ -11,3 +11,4 @@ After a few minutes, your site will be live. Return to the Pages tab under Setti
 ![Screenshot (131)](https://github.com/BDBluhm/INFOTC-1600-Final/assets/116319535/0bd2a60d-b140-4dde-96ec-411ead32ca57)
 ![Screenshot (130)](https://github.com/BDBluhm/INFOTC-1600-Final/assets/116319535/009c5ce9-dd7c-409d-b074-a51e2576005c)
 And there you go! You have a GitHub site up and running.
+[Home](README.md)
