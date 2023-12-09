@@ -12,4 +12,4 @@ Give your repository an appropriate name, and choose it's initial configuration.
 ![Screenshot (113)](https://github.com/BDBluhm/INFOTC-1600-Final/assets/116319535/52b88de5-d8cf-453d-b6a7-ef294e9b7d9d)
 Once you have created your repository, you will be placed at this screen and can begin work on your project. 
 ![Screenshot (114) - Copy - Copy](https://github.com/BDBluhm/INFOTC-1600-Final/assets/116319535/4c13c4ea-37cf-4836-89ad-15b22037551e)
-Select [here](TutorialPg2.md) to move onto the next part of the tutorial.
+Select [here](TutorialPg2.md) to move onto the next part of the tutorial. Creating and editing files.
