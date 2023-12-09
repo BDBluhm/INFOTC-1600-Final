@@ -8,3 +8,11 @@ But projects will grow quickly, and you will want to add new files. Click the "A
 Give your page an appropriate name, write your content in it's text box, and when you'd like to save your progress hit the green "Commit changes" button near the top right. You will see this pop up.
 ![Screenshot (118)](https://github.com/BDBluhm/INFOTC-1600-Final/assets/116319535/b79ac38e-4a12-421a-a3fc-9cc3f142acdc)
 This box gives you the opportunity to commit these changes to a new branch. This would allow you or your team members to review changes made, or explore different design avenues without saving over previously established work. Very useful for group work, but for a solo project its safe to commit your changes to the main branch.
+
+You can also use other code languages in GitHub, such as creating html files and pages. You do this by adding the .html suffix when you're creating a new file. This will change the doctype to html, givin you acces to html functions.
+![Screenshot (120)](https://github.com/BDBluhm/INFOTC-1600-Final/assets/116319535/4abf784a-b716-4b3e-97bf-66a89cae9aff)
+
+Another useful feature is the "preview" button, which allows you to see the changes you make and what your page will look like before you commit to your changes. This will show things like embedded images and markdown headers.
+![Screenshot (122)](https://github.com/BDBluhm/INFOTC-1600-Final/assets/116319535/a35a17e4-fe82-4173-bd55-e7a3dd1662fb)![Screenshot (121)](https://github.com/BDBluhm/INFOTC-1600-Final/assets/116319535/bc79520f-1dfb-4ed8-b601-173a2b8d383e)
+
+Select [Here]() for the next tutorial - Publishing your GitHub site
